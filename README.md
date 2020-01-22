@@ -1,2 +1,3 @@
 # Misc
-Different lines of codes for various purposes
+
+Various scripts and codes for general purpose tasks
