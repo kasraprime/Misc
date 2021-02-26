@@ -1,5 +1,5 @@
-# Misc
+# Shell Scripts
 
-Various scripts and codes for general purpose tasks.
+Various scripts and codes to tame your terminal.
 
-Slurm files are for running your code on a grid.
+Slurm files are used to run a code on a grid.
