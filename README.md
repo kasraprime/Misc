@@ -2,4 +2,5 @@
 
 Various scripts and codes to tame your terminal.
 
-Slurm files are used to run a code on a grid.
+## Slurm
+Slurm is used to manage grids and shared computing nodes.
